@@ -2,8 +2,8 @@
 
 To Do List
 
-- Express JS
 - NodeJS
+- Express JS
 - JavaScript
 - HTML
 - CSS
